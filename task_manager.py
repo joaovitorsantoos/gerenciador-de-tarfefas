@@ -25,7 +25,7 @@ def remove_task():
 # Função para mostrar tarefas ja inseridas na lista.
 def show_tasks():
     if tasks == []:
-        print('''\nYou don't have tasks in yout list...''')
+        print('''\nYou don't have tasks in your list...''')
         time.sleep(3)
     else:
         for i, task in enumerate(tasks):
