@@ -15,7 +15,7 @@ Como Abrir e Testar o Projeto
 
 1.  Clone este repositório:
     ```bash
-    git clone [URL_DO_SEU_REPOSITORIO]
+    git clone [https://github.com/joaovitorsantoos/gerenciador-de-tarfefas]
     ```
 2.  Navegue até a pasta do projeto:
     ```bash
